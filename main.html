@@ -1,0 +1,18 @@
+// WARNING: Created using IA
+
+<script>
+  const redirects = {
+    "lunor": "https://discord.gg/lunor",
+    "guns": "https://guns.lol/.riot",
+    "github": "https://github.com/RIOTLaF",
+    "cool": "https://github.com/RIOTLaF"
+  };
+
+  const path = window.location.pathname.replace("/", "");
+
+  if (redirects[path]) {
+    window.location.href = redirects[path];
+  } else {
+    document.write("page not found :(");
+  }
+</script>
