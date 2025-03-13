@@ -1,7 +1,8 @@
 {
   "redirects": [
     { "source": "/lunor", "destination": "https://discord.gg/lunor", "permanent": true },
-    { "source": "/guns", "destination": "https://guns.lol/.riot", "permanent": true },
+    { "source": "/guns", "destination": "https://e-z.bio/RI0T", "permanent": true },
+    { "source": "/ez", "destination": "https://e-z.bio/RI0T", "permanent": true },
     { "source": "/github", "destination": "https://github.com/RIOTLaF", "permanent": true },
     { "source": "/cool", "destination": "https://github.com/RIOTLaF", "permanent": true }
   ]
